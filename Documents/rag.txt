@@ -1,0 +1,13 @@
+Retrieval-Augmented Generation
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with text generation.
+
+A RAG system retrieves relevant information from a knowledge base and provides that information as context to a large language model.
+
+The retrieval stage identifies passages relevant to the user's question. The generation stage uses the retrieved context to produce an answer.
+
+TF-IDF stands for Term Frequency-Inverse Document Frequency. It represents the importance of terms in documents.
+
+Cosine similarity measures the similarity between two vectors based on the angle between them. It can be used to rank documents according to their similarity to a query.
+
+A RAG pipeline consists of a user question, information retrieval, relevant context, a language model, and a generated answer.

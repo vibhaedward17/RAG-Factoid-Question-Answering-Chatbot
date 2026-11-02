@@ -1,0 +1,9 @@
+Machine Learning
+
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data and make predictions or decisions.
+
+Supervised learning uses labeled training data. Classification and regression are common supervised learning tasks.
+
+Unsupervised learning works with unlabeled data. Clustering is a common unsupervised learning technique.
+
+A training dataset is used to train a machine learning model. A test dataset is used to evaluate its performance on data not used for training.

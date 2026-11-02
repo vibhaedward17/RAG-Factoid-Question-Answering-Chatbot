@@ -1,0 +1,9 @@
+Natural Language Processing
+
+Natural Language Processing (NLP) is a field of artificial intelligence that enables computers to process, understand, and generate human language.
+
+Tokenization is the process of dividing text into smaller units called tokens. Tokens may be words, subwords, or characters.
+
+Text classification is an NLP task that assigns predefined categories to text. Sentiment analysis is a common example of text classification.
+
+Named Entity Recognition (NER) identifies entities such as people, organizations, locations, and dates in text.
